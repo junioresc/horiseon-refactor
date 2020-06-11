@@ -10,7 +10,7 @@ In order to complete the assignment we had to make the website more accessible t
 4. Added a title and added alt tags to the images
 
 ## Screenshot:
-![Image of Horiseon nav and hero picture](/assets/images/screenshots/horiseon-nav-with-hero.png)
+![Image of Horiseon nav and hero picture](/assets/images/screenshots/horiseon-nav-with-hero.PNG)
 ![Image of Horiseon content](/assets/images/screenshots/horiseon-content.png)
 
 ## Website:
